@@ -1,3 +1,9 @@
 [submodule "uqwxd-react_labs"]
 	path = uqwxd-react_labs
 	url = https://github.com/Tarungarg98/uqwxd-react_labs
+[submodule "react_budget_app"]
+	path = react_budget_app
+	url = https://github.com/Tarungarg98/react_budget_app
+[submodule "shopping-app"]
+	path = shopping-app
+	url = https://github.com/Tarungarg98/shopping-app
